@@ -1,1 +1,1 @@
-Clean Emacs
+script that creates the directories
