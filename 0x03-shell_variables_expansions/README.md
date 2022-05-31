@@ -1,1 +1,1 @@
-script that prints a number with two decimal places
+cript that converts a number from base 10 to base 16
